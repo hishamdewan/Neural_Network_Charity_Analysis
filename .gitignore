@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Files to ignore 
+AlphabetSoupCharity_starter_code.ipynb
+
 # C extensions
 *.so
 
